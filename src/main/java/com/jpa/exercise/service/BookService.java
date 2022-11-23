@@ -1,7 +1,6 @@
 package com.jpa.exercise.service;
 
-import com.jpa.exercise.domain.Author;
-import com.jpa.exercise.domain.Book;
+import com.jpa.exercise.domain.entity.Book;
 import com.jpa.exercise.domain.dto.BookResponse;
 import com.jpa.exercise.repository.AuthorRepository;
 import com.jpa.exercise.repository.BookRepository;

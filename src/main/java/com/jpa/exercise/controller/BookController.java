@@ -1,6 +1,6 @@
 package com.jpa.exercise.controller;
 
-import com.jpa.exercise.domain.Book;
+import com.jpa.exercise.domain.entity.Book;
 import com.jpa.exercise.domain.dto.BookResponse;
 import com.jpa.exercise.service.BookService;
 import org.springframework.data.domain.Pageable;
