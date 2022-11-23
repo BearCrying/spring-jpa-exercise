@@ -1,3 +1,7 @@
+server:
+  servlet:
+    encoding:
+      force-response: true
 
 spring:
   datasource:
@@ -9,7 +13,3 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
-server:
-  servlet:
-    encoding:
-      force-response: true
