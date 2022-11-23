@@ -20,6 +20,5 @@ public class BookController {
         this.bookRepository = bookRepository;
     }
 
-    @GetMapping("")
-    public ResponseEntity<Page<Book>>
+
 }
